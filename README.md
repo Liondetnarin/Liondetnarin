@@ -64,23 +64,6 @@ Full-stack developer with hands-on experience building end-to-end web applicatio
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=liondetnarin&show_icons=true&theme=tokyonight&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=ffffff&bg_color=1c1917" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liondetnarin&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=liondetnarin&theme=tokyonight&hide_border=true&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&background=1c1917" />
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">

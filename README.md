@@ -77,13 +77,3 @@ Full-stack developer with hands-on experience building end-to-end web applicatio
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </p>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=liondetnarin&color=22c55e&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=100&section=footer" width="100%" />
-
-</div>

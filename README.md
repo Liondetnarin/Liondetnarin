@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Full-stack developer with hands-on experience building end-to-end web applications across frontend, backend, and databases. Focused on delivering functional systems with real-world workflows, and continuously improving backend and system design capabilities.
+Software Developer, Full-Stack Developer with hands-on experience building end-to-end web applications across frontend, backend, and databases. Focused on delivering functional systems with real-world workflows, and continuously improving backend and system design capabilities.
 
 - 🌍 Based in **Bangkok, Thailand**
 - ✉️ Reach me at **[detnarin.cha@gmail.com](mailto:detnarin.cha@gmail.com)**
